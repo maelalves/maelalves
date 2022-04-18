@@ -15,17 +15,21 @@
   <img align="center" alt="Mael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
-
-🌱 Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github, HTML5, CSS3 e futuramente Javascript e React.
+<p>
+🌱 &nbsp;Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github,
+  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3 e futuramente Javascript e React.
 <br>
-👀 Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript).
+<p>
+👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript).
 <br>
-:computer: Procuro atuar como freelancer em projetos Front End.
+<p>
+:computer: &nbsp;Procuro atuar como freelancer em projetos Front End.
 <br>
-⚡ Curiosidades: Games, Musica e Filmes Trahs.
+<p>
+⚡ &nbsp;Curiosidades: Livros, Musica, Games, e Filmes anos 80.
 <br>
-<br>
-:mega: Como falar comigo:
+<p>
+:mega: &nbsp;Como falar comigo:
 <br>
 <div> 
   <a href="https://instagram.com/maelalves_dev" target="_blank">
