@@ -16,17 +16,17 @@
 </div>
 <br>
 <p>
-🌱 &nbsp;Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github,
-  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3 e futuramente Javascript e React.
-<br>
-<p>
 👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript).
 <br>
 <p>
-:computer: &nbsp;Procuro atuar como freelancer em projetos Front End.
+  🌱 &nbsp;Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github,
+  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3 e futuramente Javascript e React.
+<br>
+ <p>
+:computer: &nbsp;Procuro conhecimento para atuar como freelancer em projetos Front End.
 <br>
 <p>
-⚡ &nbsp;Curiosidades: Livros, Musica, Games, e Filmes anos 80.
+⚡ &nbsp;Curiosidades: Livros, Musica, Games e Filmes anos 80.
 <br>
 <p>
 :mega: &nbsp;Como falar comigo:
