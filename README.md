@@ -1,4 +1,4 @@
-<h1>👋 Oi, me chamo Ismael Alves e estudo Desenvolvimento Web.</h1>
+<h1>👋 Oi, me chamo Ismael Alves e estudo Análise e Desenvolvimento de Sistemas.</h1>
 <div align="center">
   <a href="https://github.com/maelalves">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=maelalves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,14 +16,14 @@
 </div>
 <br>
 <p>
-👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript).
+👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript) e Back And (Python e Banco de dados Mysql e Sqlserver).
 <br>
 <p>
   🌱 &nbsp;Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github,
-  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3 e futuramente Javascript e React.
+  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3, JavaScript, Mysql e Python.
 <br>
  <p>
-:computer: &nbsp;Procuro conhecimento para atuar como freelancer em projetos Front End.
+:computer: &nbsp;Procuro conhecimento para atuar como freelancer em projetos Front End ou back and.
 <br>
 <p>
 ⚡ &nbsp;Curiosidades: Livros, Musica, Games e Filmes anos 80.
