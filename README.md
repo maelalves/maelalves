@@ -38,6 +38,6 @@
  <a href="https://discord.gg/Wbm2hu8G" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-  <a href = "mailto:alves.frontend@gmail.com">
+  <a href = "mailto:ismaelalves@ismaelalves.cloud">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
