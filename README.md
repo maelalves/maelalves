@@ -19,11 +19,11 @@
 👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript) e Back And (Python e Banco de dados Mysql e Sqlserver).
 <br>
 <p>
-  🌱 &nbsp;Atualmente estou aprendendo Algoritmo e estrutura de dados, Internet, Git e Github,
-  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3, JavaScript, Mysql e Python.
+  🌱 &nbsp;Algoritmo e estrutura de dados, Internet, Git e Github,
+  <br> &nbsp; &nbsp; &nbsp;  HTML5, CSS3, JavaScript, Mysql e Ruby On Rails.
 <br>
  <p>
-:computer: &nbsp;Procuro conhecimento para atuar como freelancer em projetos Front End ou back and.
+:computer: &nbsp;Trabalho como freelancer em projetos Front End.
 <br>
 <p>
 ⚡ &nbsp;Curiosidades: Livros, Musica, Games e Filmes anos 80.
