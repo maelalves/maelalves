@@ -16,7 +16,7 @@ h1>Desenvolver e solucionar.</h1>
 </div>
 <br>
 <p>
-👀 &nbsp;Estou interessado em desenvolvimento Front End (HTML, CSS, Javascript) e Back And (Python e Banco de dados Mysql e Sqlserver).
+👀 &nbsp;Desenvolvimento Front End (HTML, CSS, Javascript) e Back And (Node, Ruby On Rails e Banco de dados Mysql).
 <br>
 <p>
   🌱 &nbsp;Algoritmo e estrutura de dados, Internet, Git e Github,
