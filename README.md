@@ -7,8 +7,6 @@
   <a href="https://github.com/maelalves">
     <!-- Estatísticas do GitHub: commits totais, commits privados e linguagens usadas -->
     <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=maelalves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   
-    <!-- Linguagens mais utilizadas -->
     <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelalves&layout=compact&langs_count=7&theme=algolia"/>
   </a>
   <br>
@@ -27,7 +25,7 @@
 <br>
 <!-- Introdução e ênfase nas qualidades -->
 <p>
-👀 &nbsp;Atuo no desenvolvimento Front End (HTML, CSS, Javascript) e Back End (Ruby On Rails, MySQL). <br> Destaco minha resiliência, 
+👀 &nbsp;Atuo no desenvolvimento Front End (HTML, CSS, Javascript) e Back End (Node, Ruby On Rails, MySQL). <br> Destaco minha resiliência, 
 excelente comunicação e habilidade na resolução de problemas.
 <br>
 
